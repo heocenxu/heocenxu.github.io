@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HeoCenXu · 浩程序</title>
+  
+  <subtitle>一个喜欢独处的人</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://heocenxu.github.io/"/>
+  <updated>2019-12-18T09:12:29.947Z</updated>
+  <id>https://heocenxu.github.io/</id>
+  
+  <author>
+    <name>Heo Cen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo+GitHub搭建网站</title>
+    <link href="https://heocenxu.github.io/2019/12/18/Hexo+GitHub%E6%90%AD%E5%BB%BABlog/"/>
+    <id>https://heocenxu.github.io/2019/12/18/Hexo+GitHub%E6%90%AD%E5%BB%BABlog/</id>
+    <published>2019-12-18T05:43:20.417Z</published>
+    <updated>2019-12-18T09:12:29.947Z</updated>
+    
+    <content type="html"><![CDATA[<font color=red><center>基于hexo+GitHub搭建网站</center></font><a id="more"></a><h1 id="node安装"><a href="#node安装" class="headerlink" title="node安装"></a>node安装</h1><h1 id="GitHub注册"><a href="#GitHub注册" class="headerlink" title="GitHub注册"></a>GitHub注册</h1><h1 id="Git安装到win"><a href="#Git安装到win" class="headerlink" title="Git安装到win"></a>Git安装到win</h1><h1 id="GitHubSHH匹配"><a href="#GitHubSHH匹配" class="headerlink" title="GitHubSHH匹配"></a>GitHubSHH匹配</h1><h1 id="hexo本地使用"><a href="#hexo本地使用" class="headerlink" title="hexo本地使用"></a>hexo本地使用</h1><h1 id="hexo发布到GitHub"><a href="#hexo发布到GitHub" class="headerlink" title="hexo发布到GitHub"></a>hexo发布到GitHub</h1><h1 id="hexo主题next使用"><a href="#hexo主题next使用" class="headerlink" title="hexo主题next使用"></a>hexo主题next使用</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;font color=red&gt;
+&lt;center&gt;基于hexo+GitHub搭建网站&lt;/center&gt;
+&lt;/font&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JSP考试</title>
+    <link href="https://heocenxu.github.io/2019/12/17/JSP%E4%BA%94%E4%B8%AA%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://heocenxu.github.io/2019/12/17/JSP%E4%BA%94%E4%B8%AA%E5%AF%B9%E8%B1%A1/</id>
+    <published>2019-12-17T13:10:02.555Z</published>
+    <updated>2019-12-18T09:10:55.347Z</updated>
+    
+    <content type="html"><![CDATA[<font color=red><center>JSP五个对象与导入js脚本与css样式的方法</center></font><a id="more"></a><h1 id="JSP五个对象"><a href="#JSP五个对象" class="headerlink" title="JSP五个对象"></a>JSP五个对象</h1><table><thead><tr><th>对象</th><th align="center">真实类型</th><th align="right">功能</th></tr></thead><tbody><tr><td>request</td><td align="center">HttpServletRequests</td><td align="right">一次请求访问的多个资源</td></tr><tr><td>response</td><td align="center">HttpServletResponse</td><td align="right">响应对象</td></tr><tr><td>session</td><td align="center">HttpSession</td><td align="right">一次会话的多个请求</td></tr><tr><td>out</td><td align="center">JspWriter</td><td align="right">输出对象，输出数据到页面上</td></tr><tr><td>page</td><td align="center">Object</td><td align="right">当前页面的对象，类似于java中的this指针</td></tr></tbody></table><h1 id="导入js脚本与css样式进入jsp页面方法"><a href="#导入js脚本与css样式进入jsp页面方法" class="headerlink" title="导入js脚本与css样式进入jsp页面方法"></a>导入js脚本与css样式进入jsp页面方法</h1><ol><li><strong>导入js脚本</strong><br>-通过标签&lt;script&lt;插入js文件<br>-直接在&lt;script type=”text/javascript”&gt;&lt;/script&gt;标签中写入js代码</li><li><strong>导入css样式</strong><br>-外部样式：每个页面使用&lt;link&gt;标签链接到样式表<br>-内部样式：使用&lt;style&gt;标签在文档头部定义内部样式表<br>-内联样式: 在相关的标签内使用样式(style)属性。style属性可包含css属性</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;font color=red&gt;
+&lt;center&gt;JSP五个对象与导入js脚本与css样式的方法&lt;/center&gt;
+&lt;/font&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Blog</title>
+    <link href="https://heocenxu.github.io/2019/12/17/hello%20world/"/>
+    <id>https://heocenxu.github.io/2019/12/17/hello%20world/</id>
+    <published>2019-12-17T10:03:36.176Z</published>
+    <updated>2019-12-18T02:30:22.185Z</updated>
+    
+    <content type="html"><![CDATA[<center>This is my blog,and I am that happy.</center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;This is my blog,and I am that happy.&lt;/center&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
