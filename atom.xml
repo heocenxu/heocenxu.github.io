@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://heocenxu.github.io/"/>
-  <updated>2019-12-19T08:18:12.547Z</updated>
+  <updated>2019-12-19T08:21:04.132Z</updated>
   <id>https://heocenxu.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://heocenxu.github.io/2019/12/19/12%E5%B9%B4%E5%89%8D%E7%9A%84%E9%AB%98%E6%95%B0%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%A2%98%E5%9E%8B/"/>
     <id>https://heocenxu.github.io/2019/12/19/12%E5%B9%B4%E5%89%8D%E7%9A%84%E9%AB%98%E6%95%B0%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%A2%98%E5%9E%8B/</id>
     <published>2019-12-19T07:56:07.325Z</published>
-    <updated>2019-12-19T08:18:12.547Z</updated>
+    <updated>2019-12-19T08:21:04.132Z</updated>
     
-    <content type="html"><![CDATA[<font color=red><center>函数 极限 连续</center></font><a id="more"></a><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script><h1 id="概念："><a href="#概念：" class="headerlink" title="概念："></a>概念：</h1><h2 id="定义、性质"><a href="#定义、性质" class="headerlink" title="定义、性质"></a>定义、性质</h2><h2 id="有界无界"><a href="#有界无界" class="headerlink" title="有界无界"></a>有界无界</h2><h2 id="俩个准则"><a href="#俩个准则" class="headerlink" title="俩个准则"></a>俩个准则</h2><h2 id="无穷小比较"><a href="#无穷小比较" class="headerlink" title="无穷小比较"></a>无穷小比较</h2><h1 id="计算："><a href="#计算：" class="headerlink" title="计算："></a>计算：</h1><h2 id="方法："><a href="#方法：" class="headerlink" title="方法："></a>方法：</h2><p>1.等价、2.泰勒、3.洛必达、4.抓大头、5.拉格朗</p><h2 id="0-0-无穷比无穷"><a href="#0-0-无穷比无穷" class="headerlink" title="0/0  无穷比无穷"></a>0/0  无穷比无穷</h2><p>方法：首选洛，然后等价与泰勒</p><h2 id="∞-∞"><a href="#∞-∞" class="headerlink" title="∞-∞"></a>∞-∞</h2><p>（方法：抓大头、分子有理化、通分）</p><h2 id="0-∞"><a href="#0-∞" class="headerlink" title="0*∞"></a>0*∞</h2><h2 id="1-∞"><a href="#1-∞" class="headerlink" title="1^∞"></a>1^∞</h2><p>方法：(只限制1的无穷次方)<br>$$<br>    f(x)^{g(x)} 、f(x) -&gt; 1 、g(x)-&gt;∞ 、ln(f(x)-1+1)等价f(x)-1<br>$$<br>$$<br>    f(x)^{g(x)} = e^{g(x)*[f(x)-1]}<br>$$</p><h2 id="∞-0"><a href="#∞-0" class="headerlink" title="∞^0"></a>∞^0</h2><h2 id="已知极限反求参数"><a href="#已知极限反求参数" class="headerlink" title="已知极限反求参数"></a>已知极限反求参数</h2><p>方法：首选等价次之泰勒</p><h2 id="连续"><a href="#连续" class="headerlink" title="连续"></a>连续</h2><p>考点:<br>$$<br>f(x0^-)=f(x0^+)=f(x0)<br>$$</p><h2 id="间断"><a href="#间断" class="headerlink" title="间断"></a>间断</h2>]]></content>
+    <content type="html"><![CDATA[<font color=red><center>函数 极限 连续</center></font><a id="more"></a><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script><h1 id="概念："><a href="#概念：" class="headerlink" title="概念："></a>概念：</h1><h3 id="定义、性质"><a href="#定义、性质" class="headerlink" title="定义、性质"></a>定义、性质</h3><h3 id="有界无界"><a href="#有界无界" class="headerlink" title="有界无界"></a>有界无界</h3><h3 id="俩个准则"><a href="#俩个准则" class="headerlink" title="俩个准则"></a>俩个准则</h3><h3 id="无穷小比较"><a href="#无穷小比较" class="headerlink" title="无穷小比较"></a>无穷小比较</h3><h1 id="计算："><a href="#计算：" class="headerlink" title="计算："></a>计算：</h1><h3 id="方法："><a href="#方法：" class="headerlink" title="方法："></a>方法：</h3><p>1.等价、2.泰勒、3.洛必达、4.抓大头、5.拉格朗</p><h3 id="0-0-无穷比无穷"><a href="#0-0-无穷比无穷" class="headerlink" title="0/0  无穷比无穷"></a>0/0  无穷比无穷</h3><p>方法：首选洛，然后等价与泰勒</p><h3 id="∞-∞"><a href="#∞-∞" class="headerlink" title="∞-∞"></a>∞-∞</h3><p>（方法：抓大头、分子有理化、通分）</p><h3 id="0-∞"><a href="#0-∞" class="headerlink" title="0*∞"></a>0*∞</h3><h3 id="1-∞"><a href="#1-∞" class="headerlink" title="1^∞"></a>1^∞</h3><p>方法：(只限制1的无穷次方)<br>$$<br>    f(x)^{g(x)} 、f(x) -&gt; 1 、g(x)-&gt;∞ 、ln(f(x)-1+1)等价f(x)-1<br>$$<br>$$<br>    f(x)^{g(x)} = e^{g(x)*[f(x)-1]}<br>$$</p><h3 id="∞-0"><a href="#∞-0" class="headerlink" title="∞^0"></a>∞^0</h3><h3 id="已知极限反求参数"><a href="#已知极限反求参数" class="headerlink" title="已知极限反求参数"></a>已知极限反求参数</h3><p>方法：首选等价次之泰勒</p><h3 id="连续"><a href="#连续" class="headerlink" title="连续"></a>连续</h3><p>考点:<br>$$<br>f(x0^-)=f(x0^+)=f(x0)<br>$$</p><h3 id="间断"><a href="#间断" class="headerlink" title="间断"></a>间断</h3>]]></content>
     
     <summary type="html">
     
